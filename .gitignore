@@ -1,0 +1,11 @@
+# Rust
+/target
+**/*.rs.bk
+Cargo.lock
+
+# IntelliJ
+*.iml
+.idea/
+
+# Other
+*.env
